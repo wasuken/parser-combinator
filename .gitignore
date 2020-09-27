@@ -1,4 +1,5 @@
-.ionode/
+*.db
+.ionide/
 *.swp
 *.*~
 project.lock.json
